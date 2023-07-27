@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, This is Blockchainer</h1>
-<h3 align="center">A passionate Blockchain developer, Building decentralised solutions for the future.</h3>
+<h3 align="center">A passionate Blockchain developer, Building decentralized solutions for the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blockchainer1&label=Profile%20views&color=0e75b6&style=flat" alt="blockchainer1" /> </p>
 
-- 🔭 I’m currently working on **EVM based Blockchains,NFT, Cardano, EOSIO, Hyperledger, Byteball(Obyte), DAG**
+- 🔭 I’m currently working on **EVM based Blockchains,NFT, Metaverse, P2E Games, Cardano, EOSIO, Algorand, Hyperledger, Byteball(Obyte), DAG**
 
 - 🌱 I’m currently learning **Hyperledger, Cardano, NodeJS**
 
