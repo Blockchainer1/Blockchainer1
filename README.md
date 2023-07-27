@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blockchainer1&label=Profile%20views&color=0e75b6&style=flat" alt="blockchainer1" /> </p>
 
-- 🔭 I’m currently working on **EVM based Blockchains,NFT, Metaverse, P2E Games, Cardano, EOSIO, Algorand, Hyperledger, Byteball(Obyte), DAG**
+- 🔭 I’m currently working on **EVM based Blockchains,NFTs, Metaverse, P2E Games, WEB3JS, Cardano, EOSIO, Byteball(Obyte), DAG, Algorand, Hyperledger**
 
-- 🌱 I’m currently learning **Hyperledger, Cardano, NodeJS**
+- 🌱 I’m currently learning **Hyperledger, WEB3 JS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blockchainer1](https://github.com/Blockchainer1)
 
