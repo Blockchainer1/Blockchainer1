@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **EVM based Blockchains,NFTs, Metaverse, P2E Games, WEB3JS, Cardano, EOSIO, Byteball(Obyte), DAG, Algorand, Hyperledger**
 
-- 🌱 I’m currently learning **Hyperledger, WEB3 JS, NodeJS**
+- 🌱 I’m currently learning **Hyperledger Farbric, WEB3JS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blockchainer1](https://github.com/Blockchainer1)
 
